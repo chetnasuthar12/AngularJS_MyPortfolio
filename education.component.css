@@ -1,0 +1,49 @@
+.group-1 {
+	
+    max-width: 100%;
+	width: 98.8%;
+	margin: 0 auto;
+	display: block;
+	padding: 5rem;
+	background: hsl(0, 0%, 100%);
+	
+}
+.logos{
+	display: flex;
+	padding: 1rem;
+
+}
+  
+.logos img {
+	width: 100px;
+	height: 100px; 
+	
+}
+
+.college{
+	font-size: 15px;
+	margin-top: 30px;
+	margin-right: 150px;
+	background-color: #424242;
+	color: #f0ddce;
+	padding: 20px;
+	-webkit-box-shadow: 14px -14px 10px -4px rgba(102,102,102,1);
+	-moz-box-shadow: 14px -14px 10px -4px rgba(102,102,102,1);
+	box-shadow: 14px -14px 10px -4px rgba(102,102,102,1);
+}
+.skills_list {
+	margin-top: 1rem;
+	margin-left: 2rem;
+	line-height: 2;
+	list-style-type: "💼"; 
+}
+.skills_list li{
+	font-size: 15px;
+	margin-top: 30px;
+	background-color: #424242;
+	color: #f0ddce;
+	padding: 20px;
+	-webkit-box-shadow: 14px -14px 10px -4px rgba(102,102,102,1);
+	-moz-box-shadow: 14px -14px 10px -4px rgba(102,102,102,1);
+	box-shadow: 14px -14px 10px -4px rgba(102,102,102,1);
+}

@@ -1,0 +1,110 @@
+.group-2 {
+    max-width: 1300px;
+	width: 98.8%;
+	height: 500px;
+	margin: 0 auto;
+	display:block;
+	padding: 5rem;
+	background: hsl(0, 0%, 100%);
+	font-size: large;
+}
+
+.progress-container1 {
+	width: 100%; 	
+	height: 20px;
+	background-color: #ebebea; 
+	border-radius: 10px;
+}
+  
+.progress-bar1 {
+	animation: load1 3s normal forwards;
+	height: 100%; 
+	border-radius: 5px;
+	background-color: #3d3c3b; 
+}
+@keyframes load1{
+	0%{
+		width: 0;
+	}
+	100%{
+		width: 90%;
+	}
+}
+.progress-container2 {
+	width: 100%; 
+	height: 20px; 
+	background-color: #ebebea;
+	border-radius: 10px;
+}
+  
+.progress-bar2 {
+	height: 100%; 
+	animation: load2 3s normal forwards;
+	border-radius: 5px;
+	background-color: #3d3c3b; 
+}
+@keyframes load2{
+	0%{
+		width: 0;
+	}
+	100%{
+		width: 85%;
+	}
+}
+.progress-container3 {
+	width: 100%; 
+	height: 20px; 
+	background-color: #ebebea; 
+	border-radius: 10px;
+}
+  
+.progress-bar3 {
+	height: 100%; 
+	animation: load3 3s normal forwards;
+	border-radius: 5px;
+	background-color: #3d3c3b; 
+}
+@keyframes load3{
+	0%{
+		width: 0;
+	}
+	100%{
+		width: 70%;
+	}
+}
+.progress-container4 {
+	width: 100%; 
+	height: 20px; 
+	background-color: #ebebea; 
+	border-radius: 10px;
+}
+  
+.progress-bar4 {
+	height: 100%; 
+	animation: load4 3s normal forwards;
+	border-radius: 5px;
+	background-color: #3d3c3b;
+}
+@keyframes load4{
+	0%{
+		width: 0;
+	}
+	100%{
+		width: 60%;
+	}
+}
+ 
+.Proficiency {
+	margin-top: 1rem;
+	margin-left: 2rem;
+	line-height: 2;
+	list-style-type:circle;
+}
+.profi li{
+	padding: 2rem;
+}
+
+.ref {
+	padding: 1rem;
+	margin: auto;
+}

@@ -1,0 +1,18 @@
+.downloadBtn{
+	display: block;
+	text-decoration: none;
+	font-size: 1rem;
+	margin-top: 1rem;
+	padding: 10px;
+	background-color: black;
+	color: #ebe8e6;
+	width: 160px;
+	border-radius: 5px;
+    margin-left: 180px;
+}
+
+.downloadBtn:hover {
+	background-color:transparent;
+	border: 2px solid #4f3535;
+	color: rgb(0, 0, 0); 
+}
